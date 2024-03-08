@@ -1,0 +1,3 @@
+/Users/daria/CLionProjects/retele/cmake-build-debug/CMakeFiles/retele.dir
+/Users/daria/CLionProjects/retele/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/daria/CLionProjects/retele/cmake-build-debug/CMakeFiles/rebuild_cache.dir
